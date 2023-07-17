@@ -28,8 +28,11 @@ To get started with the Simple Calculator, follow these steps:
 ## Usage
 
 1.Enter the first number when prompted.
+
 2.Choose the desired operation from the available options.
+
 3.Enter the second number.
+
 4.The program will perform the calculation and display the result.
 
 ## Customization
